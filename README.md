@@ -1,11 +1,19 @@
-- 👋 Hi, I’m @kauego7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Opa! Eu sou o Kauê, estudante de ciência da computação apaixonado por tecnologia!
+- 🎒 Trabalho com Python, SQL
+- 🌱 Estudando Python e Cybersecurity
 
-<!---
-kauego7/kauego7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-print('ola eu sou bem legal e  estou aprendendo a programar e no caso a linguagem que  eu  escolhi foi python  pretendo seguir carreira na area de desenvolvedor')
+<div style="display: inline_block"><br>
+  <img align="center" alt="Kaue-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Kaue-SQL" heigh="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Kaue-Ubuntu" heigh="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg">
+</div>
+  
+  ##
+ 
+<div>  
+  <a href = "mailto:kauego58@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kauebfoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
