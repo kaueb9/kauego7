@@ -1,8 +1,8 @@
 ## Opa! Eu sou o Kauê, estudante de ciência da computação apaixonado por tecnologia!
 - 🎒 Trabalho com Python, SQL
-- 🌱 Estudando Python e Cybersecurity
+- 🌱 Estudando Python e análise de dados e  Cybersecurity
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/kaueb9">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaueb9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaueb9&layout=compact&langs_count=16&theme=dracula"/>
 </div>
