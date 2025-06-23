@@ -1,5 +1,5 @@
 ## Opa! Eu sou o Kauê, estudante de ciência da computação apaixonado por tecnologia!
-- 🎒 Trabalho com Python, SQL
+- 🎒 Trabalho com Python, SQL e AWS
 - 🌱 Estudando Python e análise de dados e  Cybersecurity
  <div>
   <a href="https://github.com/kaueb9">
